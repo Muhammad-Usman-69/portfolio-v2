@@ -1,0 +1,19 @@
+Basic Info:
+landing page should contain two container: left with button to pages and right with my photo, name and profession
+second button page should contain my skills (languages)
+third button page should contain my projects
+forth button page should contain info like contact/email etc and links to linkedin, github
+
+Info:
+Information should be fetched from an api
+
+Colors:
+#0B0C10
+#1F2833
+#C5C6C7
+#66FCF1
+#45A29E
+img source: https://visme.co/blog/wp-content/uploads/2016/09/website12.jpg
+
+Functionability:
+animation during page changing, activated button color change
