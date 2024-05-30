@@ -1,0 +1,23 @@
+array which container basic info, skill info and projects info
+
+Basic Info:
+Name 
+Image (url)
+Profession
+
+Skill Info:
+Languages Name
+Languages Img (url)
+
+Project Info:
+Project Name
+Project Basic Function (like e-commerce, crud)
+Project Description (e.g. contain email mgmt system, cart, login system)
+Project Url
+
+Contact Info:
+Number
+Email
+Linkedin
+Github
+CV
